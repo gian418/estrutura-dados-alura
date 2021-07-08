@@ -6,7 +6,6 @@ public class Celula {
 	private Celula proximo;
 	
 	public Celula(Object elemento, Celula proximo) {
-		super();
 		this.elemento = elemento;
 		this.proximo = proximo;
 	}
